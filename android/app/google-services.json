@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "608111452340",
+    "project_id": "equitysoft-e6db6",
+    "storage_bucket": "equitysoft-e6db6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608111452340:android:a6c07e0d96498e969ef7e1",
+        "android_client_info": {
+          "package_name": "com.example.equitysoft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608111452340-sd8qrr0hrftj6ek94pl2r9ajri6eg05r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5dEvAWoYx2jiKRkiv98g9u7wvyxyPnKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608111452340-sd8qrr0hrftj6ek94pl2r9ajri6eg05r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
